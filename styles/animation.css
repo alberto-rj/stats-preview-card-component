@@ -1,0 +1,53 @@
+.animate-translate {
+  animation: 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.animate-translate-from-right {
+  animation: animate-translate-from-right 0.25s ease-in-out forwards;
+  opacity: 0;
+  transform: scale(0);
+}
+
+.animate-translate-from-bottom {
+  animation-name: animate-translate-from-bottom;
+}
+
+.animate-delay-1 {
+  animation-delay: 0.25s;
+}
+
+.animate-delay-2 {
+  animation-delay: 0.5s;
+}
+
+.animate-delay-3 {
+  animation-delay: 0.75s;
+}
+
+.animate-delay-4 {
+  animation-delay: 1s;
+}
+
+@keyframes animate-translate-from-right {
+  0% {
+    opacity: 0;
+    transform: translateX(4rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes animate-translate-from-bottom {
+  0% {
+    opacity: 0;
+    transform: translateY(4rem);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
