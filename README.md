@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](#)
-- [Live Site](#)
+- [Solution](https://www.frontendmentor.io/solutions/stats-preview-card-using-flexbox-and-css-grid-8sA4Xf_tOS)
+- [Live Site](https://github.com/alberto-rj/stats-preview-card-component)
 
 ## My process
 
