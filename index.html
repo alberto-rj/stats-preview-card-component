@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Frontend Mentor | Stats preview card component</title>
+  <meta name="author" content="Frontend Mentor">
+  <meta name="title" content="Frontend Mentor | Stats preview card component">
+  <meta name="description" content="Stats preview card component challenge on Frontend Mentor">
+  
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="assets/images/favicon-32x32.png"
+  />
+  <link rel="stylesheet" href="styles/fonts.css">
+  <link rel="stylesheet" href="styles/index.css">
+
+</head>
+<body class="page">
+  <main class="page__content">
+    <div class="card">
+      <div class="card__header">
+        <picture>
+          <source 
+            media="(min-width: 62rem)" 
+            srcset="assets/images/image-header-desktop.jpg"
+          />
+          <img 
+            src="assets/images/image-header-mobile.jpg" 
+            alt=""
+          />
+        </picture>
+      </div>
+      <div class="card__body">
+        <div class="intro">
+          <h1 class="intro__heading">
+            Get <span class="accent">insights</span> that help your business grow.
+          </h1>
+          <p class="intro__description">
+            Discover the benefits of data analytics and make better decisions
+            regarding revenue, customer experience, and overall efficiency.
+          </p>
+        </div>
+        <div class="stats">
+          <div class="stat">
+            <span class="stat__value">10k+ </span>
+            <span class="stat__heading">companies</span>
+          </div>
+          <div>
+            <span class="stat__value">314 </span>
+            <span class="stat__heading">templates</span>
+          </div>
+          <div>
+            <span class="stat__value">12m+ </span>
+            <span class="stat__heading">queries</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer class="page__footer">
+    <p class="attribution">
+      Challenge by 
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+      Coded by <a href="https://www.github.com/alberto-rj" target="_blank">Alberto Raúl José</a>.
+    </p>
+  </footer>
+</body>
+</html>
