@@ -13,6 +13,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+<!-- - [Acknowledgments](#acknowledgments) -->
 
 ## Overview
 
@@ -41,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](#)
-- [Live Site](#)
+- [Solution](https://www.frontendmentor.io/solutions/stats-preview-card-using-flexbox-and-css-grid-8sA4Xf_tOS)
+- [Live Site](https://alberto-rj.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -59,3 +60,9 @@ Users should be able to:
 - Github - [Alberto Raúl José](https://github.com/alberto-rj)
 - Frontend Mentor - [@alberto-rj](https://www.frontendmentor.io/profile/alberto-rj)
 - Twitter - [@albertorauljose](https://www.twitter.com/albertorauljose)
+
+<!-- ## Acknowledgments
+
+[Sander Buist](https://www.frontendmentor.io/profile/SanderBuist2) and [Grace Snow](https://www.frontendmentor.io/profile/grace-snow), thank you very much for helping me with the dark background on the image to match the design of this challenge.
+
+ -->

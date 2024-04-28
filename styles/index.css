@@ -48,26 +48,16 @@ body {
 
 /* card header */
 .card__header {
-  position: relative;
-}
-.card__header::before {
-  border-radius: 0.5rem 0.5rem 0 0;
-  bottom: 0;
   background: var(--accent-clr);
-  content: '';
-  display: block;
-  left: 0;
-  opacity: 0.6;
-  position: absolute;
-  right: 0;
-  top: 0;
-  z-index: 1;
 }
+
 .card__header img {
   border-radius: 0.5rem 0.5rem 0 0;
   display: block;
   height: 100%;
+  mix-blend-mode: multiply;
   object-fit: cover;
+  opacity: 0.7;
   width: 100%;
 }
 /* card header */
