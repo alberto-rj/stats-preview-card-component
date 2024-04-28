@@ -13,7 +13,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-<!-- - [Acknowledgments](#acknowledgments) -->
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -62,8 +62,6 @@ Users should be able to:
 - Frontend Mentor - [@alberto-rj](https://www.frontendmentor.io/profile/alberto-rj)
 - Twitter - [@albertorauljose](https://www.twitter.com/albertorauljose)
 
-<!-- ## Acknowledgments
+## Acknowledgments
 
 [Sander Buist](https://www.frontendmentor.io/profile/SanderBuist2) and [Grace Snow](https://www.frontendmentor.io/profile/grace-snow), thank you very much for helping me with the dark background on the image to match the design of this challenge.
-
- -->
