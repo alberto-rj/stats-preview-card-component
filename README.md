@@ -58,7 +58,7 @@ Users should be able to:
 
 ## Author
 
-- Github - [Alberto Raúl José](https://github.com/alberto-rj)
+- Github - [@alberto-rj](https://github.com/alberto-rj)
 - Frontend Mentor - [@alberto-rj](https://www.frontendmentor.io/profile/alberto-rj)
 - Twitter - [@albertorauljose](https://www.twitter.com/albertorauljose)
 
